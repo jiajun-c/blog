@@ -1,0 +1,21 @@
+---
+home: true
+heroText: 啦啦啦
+tagline: 今天是个好天气
+actions:
+ - text: 快速上手
+   link: /learn/
+   type: primary
+
+features:
+- title: 后端学习
+  details: 关于golang and 其他
+- title: 前端学习
+  details: 纯纯的小白
+- title: 硬件学习
+  details: chisel天下第一
+- title: linux
+  details: 薄纱windows
+
+footer: MIT Licensed | Copyright © 2022-present jiajunCheng
+---
